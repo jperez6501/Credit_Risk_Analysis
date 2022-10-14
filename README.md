@@ -1,4 +1,4 @@
-# Credit_Risk_Analysi
+# Credit_Risk_Analysis
 ## Overview of the Analysis 
 ### The purpose of this project is to run six machine learning modules to look at the different balanced accuracy and the precision and recall scores of all six machine learning modules. 
 ## Results
