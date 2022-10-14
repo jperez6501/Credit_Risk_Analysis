@@ -1,6 +1,6 @@
 # Credit_Risk_Analysis
 ## Overview of the Analysis 
-### The purpose of this repository is to run six machine learning modules to look at the different balanced accuracy and the precision and recall scores of all six machine learning modules. 
+### The purpose of this project is to run six machine learning modules to look at the different balanced accuracy and the precision and recall scores of all six machine learning modules. 
 ## Results
 * ### Random Over Sampler Model
 For the Random Over Sample Model, the accuracy is 0.65 with a precision for high risk at 0.01 and a precision for low risk at 1.00. A huge discrepancy amongst the two values. However, the recall scores for high risk and low risk are similar at 0.68 and 0.61. 
